@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey Everyone, I'm ANAX M. L
+# 👋 Hey Everyone, I'm ANAX M L
 ### 💻 Welcome to My GitHub Universe!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=B.Tech+CSE+(Data+Science)+Student;Python+%26+Django+Developer;Data+Analysis+%26+Web+Dev;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
