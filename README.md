@@ -40,7 +40,7 @@
 ### 🐍 Contribution Graph & Snake Animation
 
 <div align="center">
-
+![GitHub Snake](https://raw.githubusercontent.com/anaxml2007/anaxml2007/output/github-user-contribution-grid-snake-dark.svg)
 <img src="https://snake-mode.vercel.app/api/snake?github_user_name=anaxml2007&color_snake=deepskyblue" alt="Snake Animation" width="100%" />
 
 </div>
