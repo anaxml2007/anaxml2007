@@ -16,8 +16,33 @@ jobs:
         with:
           github_user_name: anaxml2007
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?color_snake=deepskyblue
+            dist/github-user-contribution-grid-snake-dark.svg?color_snake=deepskyblue
+            
+      - name: push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}name: generate animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate github-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: anaxml2007
+          outputs: |
+            dist/github-user-contribution-grid-snake-dark.svg?color_snake=deepskyblue
             
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
