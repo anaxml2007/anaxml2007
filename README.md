@@ -41,8 +41,7 @@
 
 <div align="center">
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/anaxml2007/anaxml2007/output/dist/github-user-contribution-grid-snake-dark.svg)
-
+![GitHub Snake](https://raw.githubusercontent.com/anaxml2007/anaxml2007/output/github-snake-dark.svg)
 </div>
 
 ---
