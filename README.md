@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey Everyone, I'm ANAX M L
+# 👋 Hey Everyone, I'm ANAX M. L.
 ### 💻 Welcome to My GitHub Universe!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=B.Tech+CSE+(Data+Science)+Student;Python+%26+Django+Developer;Data+Analysis+%26+Web+Dev;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
@@ -40,10 +40,14 @@
 
 <div align="center">
 
-![GitHub Snake](https://raw.githubusercontent.com/anaxml2007/anaxml2007/output/github-snake-dark.svg)
+<!-- WORKING SNAKE ANIMATION LINK -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anaxml2007/anaxml2007/output/github-user-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anaxml2007/anaxml2007/output/github-user-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anaxml2007/anaxml2007/output/github-user-contribution-grid-snake.svg" width="100%">
+</picture>
 
 </div>
-
 
 ---
 
@@ -51,8 +55,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anaxml2007&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaxml2007&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=anaxml2007&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anaxml2007&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
