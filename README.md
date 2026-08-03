@@ -41,7 +41,7 @@
 
 <div align="center">
 
-![GitHub Snake](https://raw.githubusercontent.com/anaxml2007/anaxml2007/output/github-user-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anaxml2007&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 
 </div>
 
