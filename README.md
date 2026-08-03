@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey Everyone, I'm ANAX M L
+# 👋 Hey Everyone, I'm ANAX M. L.
 ### 💻 Welcome to My GitHub Universe!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=B.Tech+CSE+(Data+Science)+Student;Python+%26+Django+Developer;Data+Analysis+%26+Web+Dev;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
@@ -13,8 +13,8 @@
 
 - 🎓 Pursuing **B.Tech CSE (Data Science)** at ICCS College of Engineering & Management (KTU).
 - 📌 Currently in **2nd Year (Semester 3)**.
-- 💼 Completed Python/Django Internship at **CB Tech, Kadavanthra, Kochi**.
-- 🚀 Passionate about **Data Analysis, Machine Learning, and Full-Stack Web Development**.
+- 💼 Completed Python / Django Internship at **CB Tech, Kadavanthra, Kochi**.
+- 🚀 Passionate about **Data Analysis, Machine Learning, and Web Engineering**.
 - 📬 Connect with me: [LinkedIn](https://www.linkedin.com/in/anax-m-l-824b37388)
 
 ---
@@ -41,7 +41,8 @@
 
 <div align="center">
 
-![GitHub Snake](https://raw.githubusercontent.com/anaxml2007/anaxml2007/output/github-snake-dark.svg)
+<img src="https://snake-mode.vercel.app/api/snake?github_user_name=anaxml2007&color_snake=deepskyblue" alt="Snake Animation" width="100%" />
+
 </div>
 
 ---
@@ -61,7 +62,7 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| 💼 **[Employee Management System](https://github.com/anaxml2007/Employee-Management-System-In-Django)** | `Python`, `Django`, `SQLite3` | Built during CB Tech internship for record management. |
+| 💼 **[Employee Management System](https://github.com/anaxml2007/Employee-Management-System-In-Django)** | `Python`, `Django`, `SQLite3` | Built during CB Tech internship for employee records. |
 | 🏥 **[Hospital Management](https://github.com/anaxml2007/Hospital-Management-System-C)** | `C` | Console-based system for patient record management. |
 | 🌤️ **[Weather Data Analysis](https://github.com/anaxml2007/Weather_Data_Analysis_System)** | `Python` | Analyzes and visualizes weather trends. |
 | 🎬 **[Movie Recommendation](https://github.com/anaxml2007/Movie_Recommendation_System)** | `Python` | Movie suggestions using content filtering. |
